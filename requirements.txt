@@ -14,7 +14,7 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 gunicorn
-git+https://github.com/zevtyardt/lk21.git
+git+https://github.com/ohtuhantolongaku/lk21.git
 httpx
 lxml
 motor
@@ -34,4 +34,4 @@ tenacity
 tgcrypto
 uvloop
 xattr
-yt-dlp
+yt-dlp==2023.10.7
